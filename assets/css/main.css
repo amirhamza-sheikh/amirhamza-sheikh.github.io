@@ -1151,11 +1151,6 @@ section,
   font-size: 14px;
 }
 
-.contact .info-item:hover i {
-  background: var(--accent-color);
-  color: var(--contrast-color);
-}
-
 .contact .php-email-form {
   background-color: var(--surface-color);
   height: 100%;
